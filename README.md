@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Kwonk-Sik_Cho&font-size=100&fontColor=black)
 
-<!— ### 저의 취미는 마라톤, 영화감상입니다. :running:, :clapper: —>
+<!-- ### 저의 취미는 마라톤, 영화감상입니다. :running:, :clapper: -->
 
 ### Skills
 
