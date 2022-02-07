@@ -1,10 +1,8 @@
-### :purple_heart:  
+### Hi there, I'm Kwonsik! :sunglasses:  
                     
 <!-- ### 저의 취미는 마라톤, 영화감상입니다. :running:, :clapper: -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chokwonsik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Skills
+### Skills :rocket:
 
 * Languager
   * <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> , <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
@@ -14,5 +12,7 @@
 
 * Tool
   * <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chokwonsik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
