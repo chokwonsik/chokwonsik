@@ -2,8 +2,6 @@
                     
 <!-- ### 저의 취미는 마라톤, 영화감상입니다. :running:, :clapper: -->
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chokwonsik)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chokwonsik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills
