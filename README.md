@@ -1,6 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Kwonk-Sik_Cho&font-size=100&fontColor=black)
-
+### :purple_heart:  
+                    
 <!-- ### 저의 취미는 마라톤, 영화감상입니다. :running:, :clapper: -->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chokwonsik)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chokwonsik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills
 
