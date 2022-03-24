@@ -18,8 +18,9 @@
 * SNS
   * [LinkedIn](https://www.linkedin.com/in/kwonsik-cho-993a131ba/)
 
+<!--
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chokwonsik15">
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chokwonsik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
