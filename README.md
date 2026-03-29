@@ -17,5 +17,4 @@
 * SNS
   * [LinkedIn](https://www.linkedin.com/in/kwonsik-cho-993a131ba/)
  
-* [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={chokwonsik15})](https://solved.ac/{chokwonsik15})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={chokwonsik15})](https://solved.ac/{chokwonsik15})
