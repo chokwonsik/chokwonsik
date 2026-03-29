@@ -1,12 +1,11 @@
 ### Hi there, I'm Kwonsik! :sunglasses:  
                     
-<!-- ### 저의 취미는 마라톤, 영화감상입니다. :running:, :clapper: -->
+<!-- ### 저의 취미는 수영입니다. :running:, :clapper: -->
 
 ### Skills :rocket:
 
 * Languager
   * <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>,
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
   
 * Tool
   * <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
